@@ -1,0 +1,23 @@
+#qna{
+  display: none;
+}
+
+.qBox{
+  background-color: snow;
+  text-align: center;
+  font-size: 24px;
+  width:80%
+}
+
+.answerList{
+  background-color: snow;
+  font-size: 20px;
+  display: block;
+  width: 80%;
+
+}
+
+.answerList:hover, .answerList:focus{
+  background-color: cornflowerblue;
+  color: snow;
+}
